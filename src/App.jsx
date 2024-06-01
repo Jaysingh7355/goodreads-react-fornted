@@ -1,12 +1,12 @@
 
 
-function App() {
+function App() { 
  
 
   return (
-    <>
-    hello
-    </>
+    <div className="">
+    Home 
+    </div>
   )
 }
 
